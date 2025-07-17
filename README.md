@@ -2,7 +2,11 @@
 <h3 align="center">Exploring DSA, AI & ML | Full-stack Enthusiast | Linux Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0BF7FF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Loves+Python+%7C+Node+%7C+React;Exploring+AI+%26+ML;Linux+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXcxNWQzbTRwcXh1N25mNjF4b21kaXY2emJqOTk2MWt6YXJmeTlseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0BF7FF&center=true&vCenter=true&width=435&lines=Passionate+Developer;Loves+Python+%7C+Node+%7C+React;Exploring+AI+%26+ML;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
