@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yash Sharma</h1>
-<h3 align="center">Exploring DSA, AI & ML | Full-stack Enthusiast | Linux Explorer</h3>
+<h3 align="center">Exploring DSA, AI & ML | Full-stack Enthusiast </h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXcxNWQzbTRwcXh1N25mNjF4b21kaXY2emJqOTk2MWt6YXJmeTlseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400"/>
